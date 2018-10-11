@@ -1,5 +1,5 @@
 Retro Team Play
-Likely to never actually be personally developed by me again.
+Likely to never actually be personally developed by JetBoom again.
 
 
 Put noxctf in to garrysmod/gamemodes folder.
